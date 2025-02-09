@@ -7,5 +7,5 @@
 #rename log file with timestamp
  mv "${LOG_FILE}-${ARCHIVED_LOG_FILE}
 # confirm the archiving process
-echo "log file archived as $archived_log_file"
+echo "log file archived as "ARCHIVED_LOG_FILE"
 
