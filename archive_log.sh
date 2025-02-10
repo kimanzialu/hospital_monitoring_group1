@@ -1,5 +1,5 @@
 #!/bin/bash
-# Create a shell script to archive the log file heart_rate_log.txt.
+# Creating a shell script to archive the log file heart_rate_log.txt.
 
 # Variable declaration
 LOG_FILE="heart_rate_log.txt"
