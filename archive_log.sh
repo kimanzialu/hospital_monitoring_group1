@@ -10,5 +10,5 @@ ARCHIVED_LOG_FILE="heart_rate_log_${TIMESTAMP}"
 mv "$LOG_FILE" "$ARCHIVED_LOG_FILE"
 
 # Confirm the archiving process
-echo "Log file archived as $ARCHIVED_LOG_FILE"
+echo "Log file archived as $archived_log_file"
 
